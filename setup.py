@@ -31,6 +31,6 @@ setup(
         "canopen==1.2.0",
         "python-can==3.0.0",
         "wrapt==1.10.11",
-        "setuptools==39.2.0"
+        "setuptools==70.0.0"
     ]
 )
